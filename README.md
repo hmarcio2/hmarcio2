@@ -25,13 +25,11 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
 </div>
 
-<br>   
+<br>   <br>   
   
 <div> 
   <a href="https://www.instagram.com/hmarcio2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:heribertomarcio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/heriberto-marcio-da-silva-júnior-061b6a167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-<br>      
-  ![Snake animation](https://github.com/hmarcio2/hmarcio2/blob/output/github-contribution-grid-snake.svg) 
 </div>
