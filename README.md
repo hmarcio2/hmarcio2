@@ -1,10 +1,10 @@
-### Hi there 👋
+### Olá eu sou o Hmarcio2 👋
 
-- 🔭 I’m currently working on Web Application Dotnet
-- 🌱 I’m currently learning Blazor Web Assembly/Entity Framework
-- 👯 I’m looking to collaborate on Localiza Bootcamp
-- 🤔 I’m looking for help with get a job
-- 💬 Ask me about Algorithms 
+- 🔭 Atualmente estou trabalhando em Web Application Dotnet
+- 🌱 Atualmente estou aprendendo Blazor Web Assembly/Entity Framework
+- 👯 Atualmente estou participando do Bootcamp Localiza na DIO
+
+<hr>
 
 <div align="center">
   <a href="https://github.com/hmarcio2">
@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmarcio2&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-<br>   
+<br> <hr>   
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
@@ -25,8 +25,8 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
 </div>
 
-<br>   <br>   
- <hr> 
+<br> <hr> 
+ 
 <div> 
   <a href="https://www.instagram.com/hmarcio2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:heribertomarcio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
