@@ -1,8 +1,11 @@
 ### Olá eu sou o Hmarcio2 👋
 
 - 🔭 Atualmente estou procurando oportunidades de entrar no mercado de trabalho
-- 🌱 Atualmente estou aprendendo C# - DotNet 6 - MySql - EFCore - Blazor - Designer Patterns
-- 👯 Atualmente estou participando do Bootcamp Localiza na DIO
+- ✏️ Atualmente estou aprendendo C# - DotNet 6 - MySql - EFCore - Blazor - Designer Patterns
+- 🎥 Atualmente estou participando do Bootcamp Localiza na DIO
+- 🎓 Atualmente estudando Engenharia de Computação pela UFPB
+- 🏆 Hobbies: 🎹 Teclado 🔩 Academia 🎨 Desenho 🍗 Cozinhar
+
 
 <hr>
 
