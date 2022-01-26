@@ -20,7 +20,7 @@
   #### Portifólio_name
   Repositório com uma aplicação real. Neste tipo de projeto é seguido todas as boas práticas de programação e tem como objetivo compilar diversos conhecimentos adquiridos.
   
-  ### Estudo_name
+  #### Estudo_name
   Repositório criado com a resolução de projetos da faculdade ou de algum bootcamp
   
   
@@ -34,8 +34,7 @@
   
 <br> <hr>   
   
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+<div style="display: inline_block" align="center"><br>  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
