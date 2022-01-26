@@ -9,6 +9,23 @@
 
 <hr>
 
+### Tipos de repositórios
+
+  #### Tutorial_name
+  Repositório criando a partir de um tutorial de internet. Além do projeto criado há uma descrição no readme.md que informa os aprendizados obtidos pelo estudo
+  
+  #### MiniProjeto_name
+  Repositório criado a partir da replicação dos conhecimentos adquiridos assitindo tutoriais. O desenvolvimento do código é feito de forma independente, sem seguir passo-a-passo um video tutorial.
+  
+  #### Portifólio_name
+  Repositório com uma aplicação real. Neste tipo de projeto é seguido todas as boas práticas de programação e tem como objetivo compilar diversos conhecimentos adquiridos.
+  
+  ### Estudo_name
+  Repositório criado com a resolução de projetos da faculdade ou de algum bootcamp
+  
+  
+<hr>
+
 <div align="center">
   <a href="https://github.com/hmarcio2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hmarcio2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
