@@ -1,9 +1,9 @@
 ### Olá eu sou o Heriberto Márcio 👋
 
-- 🔭 Atualmente estou procurando oportunidades de entrar no mercado de trabalho
-- ✏️ Atualmente estou aprendendo C# - DotNet 6 - MySql - EFCore - Blazor - Designer Patterns
-- 🎥 Atualmente estou participando do Bootcamp GTF na DIO
-- 🎓 Atualmente estudando Engenharia de Computação pela UFPB
+- 🔭 Atualmente estou procurando oportunidades de entrar no mercado de trabalho como desenvolvedor Dotnet Júnior
+- ✏️ Atualmente estou aprendendo C# - DotNet - MySql - EFCore - Blazor - Designer Patterns
+- 🎥 Atualmente estou participando do Bootcamp <i>Pottencial</i> na DIO
+- 🎓 Atualmente estudando Engenharia de Computação pela UFPB (previsão de termino em Dez/2024)
 - 🏆 Hobbies: 🎹 Teclado 🔩 Academia 🎨 Desenho 🍗 Cozinhar
 
 
