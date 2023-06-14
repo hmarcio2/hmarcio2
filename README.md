@@ -1,28 +1,14 @@
 ### Olá eu sou o Heriberto Márcio 👋
 
-- 🔭 Atualmente estou procurando oportunidades de entrar no mercado de trabalho como desenvolvedor Dotnet Júnior
-- ✏️ Atualmente estou aprendendo C# - DotNet - MySql - EFCore - Blazor - Designer Patterns
-- 🎥 Atualmente estou participando do Bootcamp <i>Pottencial</i> na DIO
+- 🔭 Atualmente estou procurando estágio na área de Visão Computacional e IA
+- ✏️ Atualmente estou aprendendo DeepLearning, Python, MYSQL, OpenCV, Pandas, Numpy, Keras e TensorFlow
+- 🎥 Atualmente estou participando de grupo de estudo sobre Sensoriamento Remoto pela UFPB
 - 🎓 Atualmente estudando Engenharia de Computação pela UFPB (previsão de termino em Dez/2024)
 - 🏆 Hobbies: 🎹 Teclado 🔩 Academia 🎨 Desenho 🍗 Cozinhar
 
 
 <hr>
 
-### Tipos de repositórios
-
-  #### Tutorial_name
-  Repositório criando a partir de um tutorial de internet. Além do projeto criado há uma descrição no readme.md que informa os aprendizados obtidos pelo estudo
-  
-  #### MiniProjeto_name
-  Repositório criado a partir da replicação dos conhecimentos adquiridos assitindo tutoriais. O desenvolvimento do código é feito de forma independente, sem seguir passo-a-passo um video tutorial.
-  
-  #### Portifólio_name
-  Repositório com uma aplicação real. Neste tipo de projeto é seguido todas as boas práticas de programação e tem como objetivo compilar diversos conhecimentos adquiridos.
-  
-  #### Estudo_name
-  Repositório criado com a resolução de projetos da faculdade ou de algum bootcamp
-  
   
 <hr>
 
