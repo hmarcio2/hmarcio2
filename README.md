@@ -1,9 +1,9 @@
 ### Olá eu sou o Heriberto Márcio 👋
 
-- 🔭 Atualmente estou procurando estágio na área de Visão Computacional e IA
+- 🔭 Atualmente faço  estágio na área de Visão Computacional e IA
 - ✏️ Atualmente estou aprendendo DeepLearning, Python, MYSQL, OpenCV, Pandas, Numpy, Keras e TensorFlow
-- 🎥 Atualmente estou participando de grupo de estudo sobre Sensoriamento Remoto pela UFPB
-- 🎓 Atualmente estudando Engenharia de Computação pela UFPB (previsão de termino em Dez/2024)
+- 🎥 Atualmente estou participando em um projeto de pesquisa envolvendo Biometria Palmar.
+- 🎓 Atualmente estudando Engenharia de Computação pela UFPB (previsão de termino em Dez/2025)
 - 🏆 Hobbies: 🎹 Teclado 🔩 Academia 🎨 Desenho 🍗 Cozinhar
 
 
